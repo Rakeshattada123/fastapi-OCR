@@ -1,0 +1,205 @@
+[
+    {
+        "source_filename": "NIP_Milk__Ldpe.jpg",
+        "structured_data": {
+            "nutrition_information": {
+                "serving_size": "250mL",
+                "servings_per_package": 4,
+                "nutrients": [
+                    {
+                        "name": "Energy",
+                        "value": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "Protein",
+                        "value": "9.09",
+                        "unit": "g"
+                    },
+                    {
+                        "name": "Fat - Total",
+                        "value": "5",
+                        "unit": "g"
+                    },
+                    {
+                        "name": "Fat - Saturated",
+                        "value": "2",
+                        "unit": "g"
+                    },
+                    {
+                        "name": "Carbohydrate",
+                        "value": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "Sugars",
+                        "value": null,
+                        "unit": null
+                    },
+                    {
+                        "name": "Sodium",
+                        "value": "145",
+                        "unit": "mg"
+                    },
+                    {
+                        "name": "Potassium",
+                        "value": "308",
+                        "unit": "mg",
+                        "rdi": "38%"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "source_filename": "lays.jpg",
+        "structured_data": {
+            "product": {
+                "name": "Lay's India's Masala",
+                "description": "Potato Chips",
+                "ingredients": [
+                    "Potato",
+                    "Pepper",
+                    "Chillies",
+                    "Spices"
+                ],
+                "additional_info": "Contains Added Flavour (Natural & Nature Identical Flavouring Substances)"
+            },
+            "manufacturer": {
+                "name": "Pepsico",
+                "address": "Mf. 3 PSO ND HUONG rt UD. Nt igo: Canto, Pa Squat on vst aan \"148026, Puri.",
+                "license_no": "10012022000889"
+            },
+            "distributor": {
+                "name": "PEPSICO INDIA HOLDINGS PVT. LTD.",
+                "address": "P.O. BOX 27, DLF QUTAB ENCLAVE, PHASE -1,GURUGRAM - 122002, HARYANA.",
+                "phone": "1800 22 4020",
+                "email": "CONSUMER.FEEDBACK@PEPSICO.COM",
+                "additional_address": "Near Golf Course Extension Road, Gurugram - 122101, Haryana, India.",
+                "license_no": "1001406400045"
+            },
+            "best_before": "SIX MONTHS FROM MANUFACTURE"
+        }
+    },
+    {
+        "source_filename": "invoice.jpg",
+        "structured_data": {
+            "invoice_details": {
+                "invoice_number": null,
+                "date": "13/02/15",
+                "due_date": null,
+                "total": 1981.02,
+                "subtotal": 1981.02,
+                "tax": 396.2,
+                "tax_rate": "20%",
+                "total_due": 1584.82
+            },
+            "company": {
+                "name": "SCS,Agency",
+                "address": "Cambridge,\ncB2 8Px",
+                "website": "www.scsaaency18.bloaspol.co.uk",
+                "phone": "07981423683"
+            },
+            "client": {
+                "name": "Shelby Lucier (SCS Agency Main Director)",
+                "address": "6 Glebe Road",
+                "city": "Cambridge",
+                "state": "Cambridgeshire",
+                "zip_code": "CB1 78z",
+                "phone": "07981423683",
+                "alt_phone": "01223 507400"
+            },
+            "items": [
+                {
+                    "description": "Image capture & record of meetings:",
+                    "price": 7.58,
+                    "quantity": 1,
+                    "total": 7.58
+                },
+                {
+                    "description": "Image editing",
+                    "price": 15.16,
+                    "quantity": 1,
+                    "total": 15.16
+                },
+                {
+                    "description": "Initial sticker planning",
+                    "price": 7.58,
+                    "quantity": 4,
+                    "total": 30.32
+                },
+                {
+                    "description": "Noles being taken",
+                    "price": 0.13,
+                    "quantity": 234,
+                    "total": 30.45
+                },
+                {
+                    "description": "Initial postcard planning",
+                    "price": 22.74,
+                    "quantity": 1,
+                    "total": 22.74
+                },
+                {
+                    "description": "Note ediling & finalising",
+                    "price": 37.9,
+                    "quantity": 1.5,
+                    "total": 56.98
+                },
+                {
+                    "description": "Contacting client",
+                    "price": 15.16,
+                    "quantity": 4.77,
+                    "total": 72.14
+                },
+                {
+                    "description": "Finalising ideas (stickers & postcard - front and back)",
+                    "price": 22.74,
+                    "quantity": 4.16,
+                    "total": 94.88
+                },
+                {
+                    "description": "Printing stickers - 6.5cm width x 600 copies",
+                    "price": 54.0,
+                    "quantity": 2.83,
+                    "total": 152.67
+                },
+                {
+                    "description": "Prinling postcards - AS x 40 copies",
+                    "price": 1800,
+                    "quantity": 1.09,
+                    "total": 1956.46
+                },
+                {
+                    "description": "Bus Time Travel - 30 minules one way (30 min x 4 havels)",
+                    "price": 16.8,
+                    "quantity": 117.68,
+                    "total": 1973.26
+                },
+                {
+                    "description": "Travel io bus stop from college",
+                    "price": 0.06,
+                    "quantity": 32888.67,
+                    "total": 1.97332
+                },
+                {
+                    "description": "Travel from bus stop to Burwash Manner",
+                    "price": 0.06,
+                    "quantity": 32889.67,
+                    "total": 1.97338
+                },
+                {
+                    "description": "Meeting running time x2",
+                    "price": 764,
+                    "quantity": 2.59,
+                    "total": 1981.02
+                }
+            ],
+            "notes": [
+                "The guidlines of this invoice are sicily professional.",
+                "The minimum wage sub Total: 1.981.02",
+                "Tor under 18's inthe Uniled Kingdom is £3.79 per hour."
+            ]
+        }
+    }
+]
