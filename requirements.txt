@@ -1,0 +1,13 @@
+# For communicating with the Google Gemini API
+google-generativeai
+
+# For image processing (opening images)
+Pillow
+
+# Python wrapper for the Tesseract OCR engine
+pytesseract
+
+# For creating progress bars
+tqdm
+fastapi
+uvicorn[standard]
