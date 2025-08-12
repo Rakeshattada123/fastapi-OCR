@@ -1,0 +1,12 @@
+# Web Framework and Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# AI and OCR Libraries
+google-generativeai
+pillow
+pytesseract
+
+# Other (optional but good to have)
+tqdm
